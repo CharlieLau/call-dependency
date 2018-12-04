@@ -1,0 +1,48 @@
+{
+  "name": "call-dependency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "commondir": "^1.0.1",
+    "debug": "^4.0.1",
+    "graphviz": "^0.0.8",
+    "ora": "^3.0.0",
+    "pify": "^4.0.0",
+    "pluralize": "^7.0.0",
+    "pretty-ms": "^4.0.0",
+    "rc": "^1.2.7",
+    "walkdir": "^0.0.12",
+    "app-module-path": "^2.2.0",
+    "enhanced-resolve": "^4.1.0",
+    "is-relative-path": "^1.0.2",
+    "module-lookup-amd": "^5.0.1",
+    "resolve": "^1.5.0",
+    "resolve-dependency-path": "^1.0.2",
+    "sass-lookup": "^3.0.0",
+    "stylus-lookup": "^3.0.1",
+    "typescript": "^3.0.3",
+    "detective-amd": "^3.0.0",
+    "detective-cjs": "^3.1.0",
+    "detective-es6": "^2.0.0",
+    "detective-less": "^1.0.1",
+    "detective-postcss": "^3.0.0",
+    "detective-sass": "^3.0.0",
+    "detective-scss": "^2.0.0",
+    "detective-stylus": "^1.0.0",
+    "detective-typescript": "^4.0.0",
+    "module-definition": "^3.1.0",
+    "node-source-walk": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "CharlieLau",
+  "license": "MIT"
+}
